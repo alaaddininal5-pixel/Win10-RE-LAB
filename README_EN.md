@@ -30,7 +30,7 @@ Skip hours of installation and configuration! You can download the pre-configure
 
 ---
 
-## 🚀 How to Import & Run the Virtual Machine
+## How to Import & Run the Virtual Machine
 
 Extract **`Win10_RE_Lab.7z`** using **7-Zip** or **WinRAR** to obtain the **`Win10_RE_Lab.vmdk`** virtual disk image:
 
@@ -49,7 +49,7 @@ Extract **`Win10_RE_Lab.7z`** using **7-Zip** or **WinRAR** to obtain the **`Win
 
 ---
 
-## 🧰 Pre-Installed Reverse Engineering Arsenal (6 Categories)
+## Pre-Installed Reverse Engineering Arsenal (6 Categories)
 
 All tools are neatly organized into 6 categorized folders inside **`Desktop\RE_Tools`** (and `C:\RE_Tools`):
 
@@ -64,7 +64,7 @@ All tools are neatly organized into 6 categorized folders inside **`Desktop\RE_T
 
 ---
 
-## ⚡ Custom Right-Click Context Menu Integration
+## Custom Right-Click Context Menu Integration
 
 Right-clicking any `.exe`, `.dll`, or `.apk` file in Windows Explorer provides instant one-click access to:
 
@@ -86,7 +86,7 @@ apktool d app.apk           # Decode APK resources and Smali source code
 
 ---
 
-## 🕵️‍♂️ Anti-VM Stealth & OS Hardening (OPSEC)
+## Anti-VM Stealth & OS Hardening (OPSEC)
 
 This lab is specifically hardened to evade anti-analysis checks and prevent unintended cloud sample leakage:
 
@@ -101,7 +101,7 @@ This lab is specifically hardened to evade anti-analysis checks and prevent unin
 
 ---
 
-## 🛠️ Building the Lab Yourself via Automation Scripts
+## Building the Lab Yourself via Automation Scripts
 
 If you prefer to build the lab on your own clean Windows 10 VM instead of downloading the pre-built image, run the scripts inside [`scripts/`](scripts/) as **Administrator** in the following order:
 
