@@ -30,7 +30,7 @@ Hiçbir kurulumla uğraşmadan, tüm araçların ve sistem ayarlarının hazır 
 
 ---
 
-## 🚀 Sanal Makine Nasıl Kurulur / Açılır?
+## Sanal Makine Nasıl Kurulur / Açılır?
 
 İndirdiğiniz **`Win10_RE_Lab.7z`** arşivini **7-Zip** veya **WinRAR** ile klasöre çıkarttığınızda içinden **`Win10_RE_Lab.vmdk`** sanal disk dosyası çıkacaktır:
 
@@ -49,7 +49,7 @@ Hiçbir kurulumla uğraşmadan, tüm araçların ve sistem ayarlarının hazır 
 
 ---
 
-## 🧰 İçerisinde Hazır Kurulu Araçlar (6 Kategori)
+## İçerisinde Hazır Kurulu Araçlar (6 Kategori)
 
 Masaüstündeki **`RE_Tools`** (ve `C:\RE_Tools`) klasöründe tüm araçlar kategorilerine göre hazır dizilmiştir:
 
@@ -64,7 +64,7 @@ Masaüstündeki **`RE_Tools`** (ve `C:\RE_Tools`) klasöründe tüm araçlar kat
 
 ---
 
-## ⚡ Özel Sağ Tık Menüsü (Context Menu) Entegrasyonu
+## Özel Sağ Tık Menüsü (Context Menu) Entegrasyonu
 
 Herhangi bir `.exe`, `.dll` veya `.apk` dosyasına **Sağ Tıkladığınızda** doğrudan şu analiz seçenekleri çıkar:
 
@@ -86,7 +86,7 @@ apktool d uygulama.apk      # APK dosyasını kaynaklarına ve Smali kodlarına 
 
 ---
 
-## 🕵️‍♂️ Anti-VM Stealth & İşletim Sistemi Sertleştirmesi (OPSEC)
+## Anti-VM Stealth & İşletim Sistemi Sertleştirmesi (OPSEC)
 
 Bu laboratuvar, incelenen zararlı yazılımların sanal makineyi tespit etmesini önlemek ve analist güvenliğini sağlamak için özel olarak yapılandırılmıştır:
 
@@ -101,7 +101,7 @@ Bu laboratuvar, incelenen zararlı yazılımların sanal makineyi tespit etmesin
 
 ---
 
-## 🛠️ Kendi Windows 10 Sanal Makinenizde Scriptleri Çalıştırma
+## Kendi Windows 10 Sanal Makinenizde Scriptleri Çalıştırma
 
 Hazır imajı indirmek yerine kendi kurduğunuz temiz bir Windows 10 sanal makinesini bu laboratuvara dönüştürmek isterseniz, [`scripts/`](scripts/) klasöründeki otomasyon dosyalarını **Yönetici (Administrator)** olarak sırasıyla çalıştırmanız yeterlidir:
 
